@@ -6,11 +6,9 @@ Environment: LEGO NXT using NXC.
 
 Introduction: Line follower robot is a free wheel mobile robot that designed to follow a reference line.
 The line or define path may be simple or complex for example magnetic marker, embedded lines or laser guide marker. 
-Based on type of line or markers various type of sensor are used. Choose of sensor scheme mostly depends on the accuracy and flexibility requirement.
-Line follower robot is now widely used in different sophisticated field like large industries, manufacturing company to minimize production time as well cost.
+Based on type of line or markers various type of sensor are used. Choose of sensor scheme mostly depends on the accuracy and flexibility requirement.Line follower robot is now widely used in different sophisticated field like large industries, manufacturing company to minimize production time as well cost.
 
-Components Description: In this line follower project, the robot has been built to follow black line as reference line.
-To sense the reference path, reflected light sensor has been used. Basically our line follower robot consists of major four parts- Moto, Wheel, Sensor, Controller.
+Components Description: In this line follower project, the robot has been built to follow black line as reference line.To sense the reference path, reflected light sensor has been used. Basically our line follower robot consists of major four parts- Moto, Wheel, Sensor, Controller.
 
 ![image](https://user-images.githubusercontent.com/56788338/130749447-2508c995-9dc2-4aa3-96de-f739b9cc942b.png)
 
@@ -18,17 +16,13 @@ Motor: There are two motors are used in the robot one for left side and another 
 
 ![image](https://user-images.githubusercontent.com/56788338/130749631-36e62cc1-0964-48de-a5b7-f905724b69e5.png)
 
-Wheel: The robot has three wheels for better movement. Left and right wheel only for forward or reverse movement which is powered by left motor and right motor respectively. 
-Another free wheel is connected in back side lower part for guiding the robot to desire direction. 
-This wheel is smaller compare to other two wheels due to compatible robot design.
+Wheel: The robot has three wheels for better movement. Left and right wheel only for forward or reverse movement which is powered by left motor and right motor respectively. Another free wheel is connected in back side lower part for guiding the robot to desire direction. This wheel is smaller compare to other two wheels due to compatible robot design.
 
 ![image](https://user-images.githubusercontent.com/56788338/130749808-eb06c84d-f426-45d2-8388-0d97ecdb6fd2.png) ![image](https://user-images.githubusercontent.com/56788338/130749864-e769d56b-361e-4f31-8147-1cd0843aef4d.png)
 
 
 
-Sensor: To follow the reference black line, reflective light sensor has been used. 
-The sensor works based on comparing emitted light and received reflected light value. White surface reflect more light than black line. 
-Robot chose the direction based on sensor value. 
+Sensor: To follow the reference black line, reflective light sensor has been used. The sensor works based on comparing emitted light and received reflected light value. White surface reflect more light than black line. Robot chose the direction based on sensor value. 
 
 ![image](https://user-images.githubusercontent.com/56788338/130749982-a09e832f-71d0-42c8-9bb4-7ccebbccdb41.png)
 
