@@ -22,9 +22,9 @@ Wheel: The robot has three wheels for better movement. Left and right wheel only
 Another free wheel is connected in back side lower part for guiding the robot to desire direction. 
 This wheel is smaller compare to other two wheels due to compatible robot design.
 
-![image](https://user-images.githubusercontent.com/56788338/130749808-eb06c84d-f426-45d2-8388-0d97ecdb6fd2.png)
+![image](https://user-images.githubusercontent.com/56788338/130749808-eb06c84d-f426-45d2-8388-0d97ecdb6fd2.png) ![image](https://user-images.githubusercontent.com/56788338/130749864-e769d56b-361e-4f31-8147-1cd0843aef4d.png)
 
-![image](https://user-images.githubusercontent.com/56788338/130749864-e769d56b-361e-4f31-8147-1cd0843aef4d.png)
+
 
 Sensor: To follow the reference black line, reflective light sensor has been used. 
 The sensor works based on comparing emitted light and received reflected light value. White surface reflect more light than black line. 
