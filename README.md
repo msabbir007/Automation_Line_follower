@@ -2,6 +2,9 @@
 
 https://user-images.githubusercontent.com/56788338/130749228-9228286f-b84c-4a32-b554-2760d1642cd6.mp4
 
+**Introduction:** Line follower robot is a free wheel mobile robot that designed to follow a reference line.
+The line or define path may be simple or complex for example magnetic marker, embedded lines or laser guide marker. Based on type of line or markers various type of sensor are used. Choose of sensor scheme mostly depends on the accuracy and flexibility requirement.Line follower robot is now widely used in different sophisticated field like large industries, manufacturing company to minimize production time as well cost.
+
 **Programming Environment:** LEGO NXT using NXC.
 
 **Design argument and solutions:** The line follower robot model was designed based on some features that are given bellows:
@@ -28,9 +31,6 @@ https://user-images.githubusercontent.com/56788338/130749228-9228286f-b84c-4a32-
 
 ![image](https://user-images.githubusercontent.com/56788338/130750726-18c2d3e5-c0e0-4433-98b7-620bca3b6d46.png)
 
-**Introduction:** Line follower robot is a free wheel mobile robot that designed to follow a reference line.
-The line or define path may be simple or complex for example magnetic marker, embedded lines or laser guide marker. 
-Based on type of line or markers various type of sensor are used. Choose of sensor scheme mostly depends on the accuracy and flexibility requirement.Line follower robot is now widely used in different sophisticated field like large industries, manufacturing company to minimize production time as well cost.
 
 **Components Description:** In this line follower project, the robot has been built to follow black line as reference line.To sense the reference path, reflected light sensor has been used. Basically our line follower robot consists of major four parts- Moto, Wheel, Sensor, Controller.
 
