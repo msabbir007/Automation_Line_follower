@@ -1,0 +1,21 @@
+task main()
+{
+SetSensorLight(IN_1, SENSOR_TYPE_LIGHT_ACTIVE);
+SetSensorMode(IN_1, SENSOR_MODE_RAW);
+
+int gain=1;
+int target=470;
+int C=50;
+int powerA, powerB,output,error;
+
+while (true)
+{
+error=target-Sensor(S1);
+output=error*gain ;
+powerA=  C-output;
+powerB=C+output;
+OnRev(OUT_A, powerA);
+OnRev(OUT_B, powerB);
+}
+}
+
